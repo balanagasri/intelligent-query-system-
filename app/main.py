@@ -10,8 +10,8 @@ from datetime import datetime
 import os
 
 app = FastAPI(
-    title="Policy Explainer AI",
-    description="FAISS + Gemini API-powered document Q&A",
+    title="VeriSure AI",
+    description="Policy Explainer AI is an intelligent, session-based insurance assistant that combines semantic document retrieval using FAISS with reasoning powered by Gemini 1.5 Flash. Users can upload multiple policy documents, ask natural language questions, and receive structured, justified decisions in real time. Each session is self-contained, allowing dynamic indexing, accurate clause referencing, and clean separation of uploaded contexts.",
     version="1.0"
 )
 
@@ -31,7 +31,7 @@ class QueryRequest(BaseModel):
 
 @app.get("/")
 def root():
-    return {"message": "Clause Finder AI is live!"}
+    return {"message": "VeriSure AI is live!"}
 
 @app.post("/query")
 def query_docs(request: QueryRequest):

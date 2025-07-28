@@ -1,7 +1,7 @@
 [project]
-name = "bajaj-finserv"
+name = "bajaj_finserv"
 version = "0.1.0"
-description = "Add your description here"
+description = "VeriSure AI is an intelligent, session-based insurance assistant that combines semantic document retrieval using FAISS with reasoning powered by Gemini 1.5 Flash. Users can upload multiple policy documents, ask natural language questions, and receive structured, justified decisions in real time. Each session is self-contained, allowing dynamic indexing, accurate clause referencing, and clean separation of uploaded contexts."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
