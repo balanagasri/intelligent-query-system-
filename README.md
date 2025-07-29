@@ -4,7 +4,7 @@
 
 VeriSure AI is a smart document reasoning system built for the **Bajaj Finserv Hackathon**. It allows users to upload one or more insurance policy documents and then ask natural language questions about them. The system uses **FAISS for semantic retrieval** and **Gemini 1.5 Flash for reasoning**, returning structured decisions in JSON format.
 
-> ⚠️ Although I can't participate in the hackathon because my team isn't available, a project is still a project, and sarcasm is my coping mechanism. 😎
+> ⚠️ Although I can't participate in the hackathon because my team isn't eligible, a project is still a project, and sarcasm is my coping mechanism. 😎
 
 ---
 
@@ -80,7 +80,7 @@ project/
 ├── config/
 │   └── config.yaml          # API keys and settings
 ```
-
+Mermaid Diagram : [VeriSureAI](VeriSureAI.svg)
 ---
 
 ## 🔍 Sample Output
@@ -131,4 +131,4 @@ project/
 
 ## 📬 Contact
 
-Feel free to connect via [LinkedIn](https://linkedin.com/in/yourprofile) or email at: [anandambastha72@gmail.com](anandambastha72@gmail.com)
+Feel free to connect via [LinkedIn](https://linkedin.com/in/anand-kumar05) or email at: [anandambastha72@gmail.com](anandambastha72@gmail.com)
