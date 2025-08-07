@@ -1,10 +1,9 @@
-# VeriSure AI - Bajaj Finserv Hackathon Submission
+# intelligent-query-system - Bajaj Finserv Hackathon Submission
 
 ## 🚀 Overview
 
-VeriSure AI is a smart document reasoning system built for the **Bajaj Finserv Hackathon**. It allows users to upload one or more insurance policy documents and then ask natural language questions about them. The system uses **FAISS for semantic retrieval** and **Gemini 1.5 Flash for reasoning**, returning structured decisions in JSON format.
+intelligent-query-system is a smart document reasoning system built for the **Bajaj Finserv Hackathon**. It allows users to upload one or more insurance policy documents and then ask natural language questions about them. The system uses **FAISS for semantic retrieval** and **Gemini 1.5 Flash for reasoning**, returning structured decisions in JSON format.
 
-> ⚠️ Although I can't participate in the hackathon because my team isn't eligible, a project is still a project, and sarcasm is my coping mechanism. 😎
 
 ---
 
@@ -124,11 +123,7 @@ Mermaid Diagram : [VeriSureAI](VeriSureAI.svg)
 
 ## 👨‍💻 Team
 
-**Developer**: Anand Kumar
+**Developer**: Bala Naga Sri Thota
 **Hackathon**: Bajaj Finserv Hackathon 2025
 
 ---
-
-## 📬 Contact
-
-Feel free to connect via [LinkedIn](https://linkedin.com/in/anand-kumar05) or email at: [anandambastha72@gmail.com](anandambastha72@gmail.com)
