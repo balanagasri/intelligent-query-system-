@@ -79,7 +79,7 @@ project/
 ├── config/
 │   └── config.yaml          # API keys and settings
 ```
-Mermaid Diagram : [VeriSureAI](VeriSureAI.svg)
+
 ---
 
 ## 🔍 Sample Output
